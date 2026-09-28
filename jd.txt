@@ -1,0 +1,89 @@
+
+ROLE:
+Senior AI Engineer — Founding Team
+
+COMPANY CONTEXT:
+Redrob AI is an AI-native talent intelligence platform.
+The role owns the intelligence layer of the product, including
+ranking, retrieval, and candidate-job matching systems.
+
+PRIMARY RESPONSIBILITY:
+Build, improve, and own production ranking, retrieval, and matching
+systems that determine what recruiters see when searching for
+candidates and what candidates see when searching for roles.
+
+The role requires both:
+- Deep technical capability in modern ML systems.
+- A practical product-engineering mindset focused on shipping,
+  testing with real users, and improving systems based on evidence.
+
+EXPERIENCE:
+- Stated experience range: 5-9 years.
+- Candidates outside this range may still be considered when other
+  signals are strong.
+- Ideal profile: approximately 6-8 years of total experience,
+  including 4-5 years in applied ML/AI roles at product companies.
+
+CRITICAL REQUIREMENTS:
+1. Production experience with embeddings-based retrieval systems,
+   such as sentence-transformers, OpenAI embeddings, BGE, E5, or similar.
+2. Experience deploying retrieval systems to real users, including
+   practical experience with embedding drift, index refresh, and
+   retrieval-quality regression.
+3. Production experience with vector databases or hybrid-search
+   infrastructure, such as Pinecone, Weaviate, Qdrant, Milvus,
+   OpenSearch, Elasticsearch, FAISS, or similar.
+4. Strong Python and production coding experience.
+5. Hands-on experience designing evaluation frameworks for ranking
+   systems, including NDCG, MRR, MAP, offline-to-online correlation,
+   and A/B test interpretation.
+6. Experience shipping an end-to-end ranking, search, or recommendation
+   system to real users at meaningful scale is an important signal.
+
+PREFERRED REQUIREMENTS:
+- LLM fine-tuning using LoRA, QLoRA, or PEFT.
+- Learning-to-rank models, including XGBoost-based or neural approaches.
+- HR-tech, recruiting-tech, or marketplace product experience.
+- Distributed systems or large-scale inference optimization.
+- Open-source contributions in AI/ML.
+
+IMPORTANT TECHNICAL SIGNALS:
+- Strong understanding of retrieval, including hybrid and dense retrieval.
+- Practical experience with ranking systems and ranking evaluation.
+- Experience integrating LLMs into production systems.
+- Ability to make practical decisions about fine-tuning versus prompting.
+- Production ML/AI experience rather than only theoretical or academic work.
+- Recent hands-on production coding experience.
+
+PROFILE CONSIDERATIONS:
+The JD explicitly states that pure research experience without
+production deployment is not the target profile.
+
+The JD also states that recent AI experience consisting primarily
+of simple LangChain projects calling OpenAI, without substantial
+pre-LLM ML production experience, is not the target.
+
+The role requires engineers who continue to write production code;
+a candidate whose recent experience is only architecture or
+technical leadership without recent production coding is not the
+target profile.
+
+A background primarily in computer vision, speech, or robotics
+without significant NLP/information-retrieval exposure is also
+not the target profile.
+
+PRODUCT-COMPANY SIGNAL:
+The ideal profile includes applied ML/AI experience at product
+companies. The JD specifically distinguishes product-company
+experience from candidates whose entire career has been at
+consulting/service companies.
+
+IDEAL CANDIDATE:
+Approximately 6-8 years of total experience, including 4-5 years
+in applied ML/AI roles at product companies, with experience
+shipping at least one end-to-end ranking, search, or recommendation
+system to real users at meaningful scale.
+
+The ideal candidate demonstrates strong practical knowledge of
+retrieval, ranking evaluation, and LLM integration, and can explain
+technical decisions using evidence from systems they have actually built.
